@@ -1,8 +1,6 @@
-### 1. install
-npm install scroll
+### 1、搬用 老大的组件 (若侵权立刻下架）QaQ 
 
-### 2. import
-import Scroll  from 'Scroll'
+### 2、感谢老大 ，膜拜老大
 
 ### 3. props
 
